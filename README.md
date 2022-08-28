@@ -1,1 +1,1 @@
-# Diabetesprediction
+This is a diabetes prediction project using python using the Support Vector machine algorithm. Several medical informations such as BMI, no.of pregnancies,Blood pressure, Skin thickness, Insulin are taken as data set and the model is trained. It is used to predict diabetes especially for ladies.After entering any other set of input values, the model predicts if the person is either daibetic or not. 
